@@ -1,6 +1,6 @@
-# WPWriter
+# WPWriter — AI Blog Writer for WordPress
 
-Write, optimize and publish WordPress blog posts from Claude. WPWriter connects your self-hosted WordPress site so Claude can draft articles, improve SEO, schedule posts and manage your content.
+Write SEO blog posts and publish them to your WordPress site straight from Claude. Draft articles, optimize titles and meta descriptions, add alt text, schedule posts and run automatic blogging on your own self-hosted WordPress.
 
 ## Use it
 

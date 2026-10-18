@@ -1,6 +1,6 @@
 ---
 name: write-wordpress-posts
-description: Write, edit, optimize and publish blog posts and pages on a self-hosted WordPress site. Use when the user wants to write a blog post or article for their WordPress site, publish or schedule a post, improve SEO titles and meta descriptions, add image alt text, fix broken links, set up automatic posting on a schedule, or manage WordPress posts, pages, media, menus, themes or plugins from chat.
+description: Write, optimize and publish blog posts on the user's own WordPress site. Use whenever the user wants to write a blog post or article for WordPress, publish or schedule a post, post content to their website or blog, write SEO-optimized content, improve SEO titles and meta descriptions, add image alt text, fix broken links, keep a blog updated automatically on a schedule, or manage WordPress posts, pages, media, menus, themes or plugins from chat. Also use when the user has a WordPress site and asks for help growing traffic with content.
 ---
 
 # Write and publish WordPress posts

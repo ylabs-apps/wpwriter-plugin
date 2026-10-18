@@ -1,22 +1,27 @@
 {
   "name": "wpwriter",
-  "displayName": "WPWriter",
+  "displayName": "WPWriter — AI Blog Writer for WordPress",
   "version": "1.0.0",
-  "description": "Write, optimize and publish WordPress blog posts from Claude. WPWriter connects your self-hosted WordPress site so Claude can draft articles, improve SEO, schedule posts and manage your content.",
+  "description": "Write SEO blog posts and publish them to your WordPress site straight from Claude. Draft articles, optimize titles and meta descriptions, add alt text, schedule posts and run automatic blogging on your own self-hosted WordPress.",
   "author": {
     "name": "WPWriter"
   },
   "license": "MIT",
   "keywords": [
     "wordpress",
-    "blog",
-    "blogging",
+    "blog post",
     "write blog post",
-    "publish post",
+    "ai blog writer",
     "seo",
-    "content writing",
+    "seo content",
+    "publish to wordpress",
+    "schedule posts",
     "auto blogging",
-    "wordpress posts"
+    "content writing",
+    "meta description",
+    "alt text",
+    "wordpress posts",
+    "blogging"
   ],
   "icon": ".claude-plugin/icon.png",
   "repository": "https://github.com/ylabs-apps/wpwriter-plugin",
