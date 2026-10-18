@@ -1,0 +1,26 @@
+{
+  "name": "wpwriter",
+  "displayName": "WPWriter",
+  "version": "1.0.0",
+  "description": "Write, optimize and publish WordPress blog posts from Claude. WPWriter connects your self-hosted WordPress site so Claude can draft articles, improve SEO, schedule posts and manage your content.",
+  "author": {
+    "name": "WPWriter"
+  },
+  "license": "MIT",
+  "keywords": [
+    "wordpress",
+    "blog",
+    "blogging",
+    "write blog post",
+    "publish post",
+    "seo",
+    "content writing",
+    "auto blogging",
+    "wordpress posts"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "repository": "https://github.com/ylabs-apps/wpwriter-plugin",
+  "homepage": "https://www.wpwriter.com/",
+  "privacyPolicyUrl": "https://www.wpwriter.com/privacy/",
+  "termsOfServiceUrl": "https://www.wpwriter.com/terms/"
+}
