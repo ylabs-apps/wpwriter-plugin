@@ -1,6 +1,6 @@
 {
   "name": "wpwriter",
-  "displayName": "WPWriter — AI Blog Writer for WordPress",
+  "displayName": "WPWriter — Write & publish to WordPress",
   "version": "1.0.0",
   "description": "Write SEO blog posts and publish them to your WordPress site straight from Claude. Draft articles, optimize titles and meta descriptions, add alt text, schedule posts and run automatic blogging on your own self-hosted WordPress.",
   "author": {
@@ -27,5 +27,7 @@
   "repository": "https://github.com/ylabs-apps/wpwriter-plugin",
   "homepage": "https://www.wpwriter.com/",
   "privacyPolicyUrl": "https://www.wpwriter.com/privacy/",
-  "termsOfServiceUrl": "https://www.wpwriter.com/terms/"
+  "termsOfServiceUrl": "https://www.wpwriter.com/terms/",
+  "supportUrl": "https://www.wpwriter.com/contact-us",
+  "documentationUrl": "https://www.wpwriter.com/docs/mcp"
 }
